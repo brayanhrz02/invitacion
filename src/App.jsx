@@ -268,7 +268,7 @@ function App() {
                                 <div className="bg-blue-400 p-3 rounded-full shadow-lg">
                                     <Calendar className="w-6 h-6 text-white" />
                                 </div>
-                                <span className="text-lg font-semibold">27 de Diciembre de 2024</span>
+                                <span className="text-lg font-semibold">27 de Diciembre de 2025</span>
                             </div>
 
                             <div className="flex items-center justify-center gap-4 text-gray-700 group hover:scale-105 transition-transform">
@@ -318,7 +318,7 @@ function App() {
                             </div>
                             <div className="w-32 h-1 bg-white mx-auto rounded-full mb-4 opacity-50"></div>
                             <p className="text-lg text-blue-50 leading-relaxed max-w-xl mx-auto">
-                                Tu presencia es nuestro mayor regalo, pero si deseas bendecir a nuestro pequeño con un regalo, puedes hacerlo dentro de un sobre
+                                Tu presencia es nuestro mayor regalo, pero si deseas bendecir a nuestro pequeño con un regalo, puedes hacerlo dentro de un sobre
                             </p>
                         </div>
                     </div>
