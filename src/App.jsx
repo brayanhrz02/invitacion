@@ -351,7 +351,7 @@ function App() {
                         >
                             <span className="text-3xl">📱</span>
                             <p className="text-2xl text-blue-700 font-bold tracking-wide hover:text-blue-800">
-                                Preciona para confirmar
+                                Presiona para confirmar
                             </p>
                         </a>
                     </div>
